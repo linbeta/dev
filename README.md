@@ -1,3 +1,12 @@
+# 這是個酷東西！
+
+今天發現Github官方的酷東西，原來只要在任何一個repo按下`.`，就可以把這個repo用vs code的網頁版開起來！(如下方區塊簡單易懂的影片)
+
+對的，就是按一個點就可以開啟這個密技！
+
+不論是大型專案可以輕鬆的依照資較夾層級瀏覽，或是臨時要改個code都可以直接在網頁上搞定，好東西不用嗎？🤣
+
+
 # What is this?
 
 The github.dev web-based editor is a lightweight editing experience that runs entirely in your browser. You can navigate files and source code repositories from GitHub, and make and commit code changes.
